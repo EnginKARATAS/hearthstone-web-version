@@ -183,6 +183,8 @@ Thanks to the people for their support and contributions.
 
 <img width="1921" height="1171" alt="image" src="https://github.com/user-attachments/assets/0aa3cd9a-35aa-4444-9460-72cf4e60cdcc" />
 
+<img width="1369" height="1092" alt="image" src="https://github.com/user-attachments/assets/c6b996e9-bd88-4d8e-ba06-5fe7258a28d5" />
+
 ![image](https://github.com/user-attachments/assets/a60c573d-30d0-4d5e-a362-284bdb1cbb91)
 
 ![image](https://github.com/user-attachments/assets/73df14f9-16c7-4cfe-bec4-9e62941af1f1)
