@@ -1,5 +1,6 @@
 # Hearthstone Clone App
 browser play link: [Hearthstone Clone App](https://hearthstone-clone-game.vercel.app/) (all devices)
+explanation video(Turkish): https://www.youtube.com/watch?v=4hh0g17OZjg&t=237s
   
 ## Overview
 A fan-made card game inspired by Blizzard Entertainment's Hearthstone, featuring turn-based gameplay with character selection, resource management, and card combat mechanics.
